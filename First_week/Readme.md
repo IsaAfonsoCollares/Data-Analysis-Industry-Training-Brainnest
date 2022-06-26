@@ -1,13 +1,10 @@
+Project for the fisrt week of the Data Anaysis Industry Training from Brainnest 
 
-Purpose:
+Purpose:Analyse a dataset with data about babies of smoking and non-smoking mothers
   
 Development:  
   
-
-Index(['ID', 'Headcirc', 'Length', 'Birthweight', 'Gestation', 'mage',
-       'smoker', 'mheight', 'mppwt', 'fage', 'fedyrs', 'fnocig', 'fheight',
-       'lowbwt', 'mage35', 'mnocig'],
-      dtype='object')
+Using Pandas and Scypy Stats packages the dataset was analyzed to find descriptive statistics variables, such as mean, range, and standard deviation, normal distribution was also tested and the z-scores and probability for specific values were calculated.
       
 The questions that needed to be answered are listed bellow as well as the answers to each one.
 Q1. What is the mean birth weight for babies of non-smoking mothers?
