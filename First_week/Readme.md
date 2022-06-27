@@ -4,7 +4,7 @@ Purpose:Analyse a dataset with data about babies of smoking and non-smoking moth
   
 Development:  
   
-Using Pandas and Scypy Stats packages the dataset was analyzed to find descriptive statistics variables, such as mean, range, and standard deviation, normal distribution was also tested and the z-scores and probability for specific values were calculated.
+Using Pandas and Scypy Stats packages the dataset was analyzed to find descriptive statistics variables, such as mean, range, and standard deviation, the Shapiro-Wilk test was applied to some of the variables to test if the distribution was normal, z-scores and probability for specific values were also calculated.
       
 The questions that needed to be answered are listed bellow as well as the answers to each one.
 Q1. What is the mean birth weight for babies of non-smoking mothers?
