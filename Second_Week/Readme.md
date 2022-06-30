@@ -7,3 +7,7 @@ Development:
 Using Pandas and Scypy Stats packages the dataset was analyzed to find descriptive statistics variables, such as mean, range, and standard deviation, the Shapiro-Wilk test was applied to some of the variables to test if the distribution was normal, z-scores and probability for specific values were also calculated.
       
 The questions that oriented this analysis can be foun in the 'DA-Homework-W2.pdf' file as well as the answers found for each one.
+
+'ID', 'Headcirc', 'Length', 'Birthweight', 'Gestation', 'mage',
+       'smoker', 'mheight', 'mppwt', 'fage', 'fedyrs', 'fnocig', 'fheight',
+       'lowbwt', 'mage35', 'mnocig'
